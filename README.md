@@ -7,7 +7,6 @@ I'm a passionate Data Scientist with expertise in data visualization, processing
 ## About Me
 
 - 🌱 I’m currently deepening my knowledge in Machine Learning and AI.
-- 🤖 I have experience in building an Investment Robo-Advisor and predicting loan delinquency rates.
 - 🛠️ I'm proficient in Python, TensorFlow, and various other ML libraries.
 - 💬 Ask me about Data Science, Time Series Forecasting, or anything related to Machine Learning!
 
