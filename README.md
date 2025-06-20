@@ -17,6 +17,11 @@ I'm a passionate Data Scientist with expertise in data visualization, processing
 - Developed an Investment Robo-Advisor to help users reach their financial goals.
 - Maintained documentation for every feature update and addition.
 
+### Academic Trainee - KPMG (February 2025 - Present)
+- Create/propose solutions to the presales board of a financial company.
+- Setup Jenkins pipeline for automatic data extraction.
+- Implement model governance practices to developed solution for a client.
+
 ## 🎓 Education
 
 **Bennett University, Greater Noida**  
