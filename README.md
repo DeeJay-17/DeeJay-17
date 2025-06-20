@@ -10,17 +10,19 @@ I'm a passionate Data Scientist with expertise in data visualization, processing
 - 🛠️ I'm proficient in Python, TensorFlow, and various other ML libraries.
 - 💬 Ask me about Data Science, Time Series Forecasting, or anything related to Machine Learning!
 
+
 ## 💼 Experience
+
+### Academic Trainee - KPMG (February 2025 - Present)
+- Create/propose solutions to the presales board of a financial company.
+- Setup Jenkins pipeline for automatic data extraction.
+- Implement model governance practices to developed solution for a client.
 
 ### Data Science Intern - EbixCash Financial Technologies (June 2024 – September 2024)
 - Predicted the Delinquency Rate of Loan Repayment using Time Series Forecasting.
 - Developed an Investment Robo-Advisor to help users reach their financial goals.
 - Maintained documentation for every feature update and addition.
 
-### Academic Trainee - KPMG (February 2025 - Present)
-- Create/propose solutions to the presales board of a financial company.
-- Setup Jenkins pipeline for automatic data extraction.
-- Implement model governance practices to developed solution for a client.
 
 ## 🎓 Education
 
