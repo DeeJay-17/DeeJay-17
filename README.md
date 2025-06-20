@@ -21,7 +21,7 @@ I'm a passionate Data Scientist with expertise in data visualization, processing
 
 **Bennett University, Greater Noida**  
 *Bachelor of Technology in Computer Science, Data Science*  
-*CGPA: 9.23* (Sept 2021 – June 2025)
+*CGPA: 9.33* (Sept 2021 – June 2025)
 
 
 ## 📫 Contact Me
