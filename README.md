@@ -1,38 +1,130 @@
 # 👋 Hi, I'm Deepanshu Jain
 
-I'm a passionate Data Scientist with expertise in data visualization, processing, and machine learning. I love tackling challenging problems and working collaboratively to build innovative solutions.
+🚀 **Data Scientist | Generative AI Engineer | LLM Applications Developer**
 
-![Python](https://img.shields.io/badge/Python-3.x-blue) ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Expert-brightgreen) ![Data Science](https://img.shields.io/badge/Data%20Science-Passionate-blueviolet)
+I'm a passionate **Data Scientist and AI Engineer** focused on building intelligent systems using **Machine Learning, Generative AI, and LLM-based architectures**. I enjoy solving complex problems, building data-driven products, and designing scalable AI solutions.
 
-## About Me
+---
 
-- 🌱 I’m currently deepening my knowledge in Machine Learning and AI.
-- 🛠️ I'm proficient in Python, TensorFlow, and various other ML libraries.
-- 💬 Ask me about Data Science, Time Series Forecasting, or anything related to Machine Learning!
+## 🧠 About Me
 
+* 💡 Currently working on **Generative AI and LLM-based applications**
+* 🤖 Interested in **Agentic AI, RAG systems, and AI-powered products**
+* 📊 Strong background in **Data Science, Time Series Forecasting, and NLP**
+* 🛠️ Experienced with **Python ecosystems, ML frameworks, and AI orchestration tools**
+* 🌱 Continuously learning and exploring **advanced AI architectures**
+
+---
 
 ## 💼 Experience
 
-### Academic Trainee - KPMG (February 2025 - Present)
-- Create/propose solutions to the presales board of a financial company.
-- Setup Jenkins pipeline for automatic data extraction.
-- Implement model governance practices to developed solution for a client.
+### **Analyst — KPMG**
 
-### Data Science Intern - EbixCash Financial Technologies (June 2024 – September 2024)
-- Predicted the Delinquency Rate of Loan Repayment using Time Series Forecasting.
-- Developed an Investment Robo-Advisor to help users reach their financial goals.
-- Maintained documentation for every feature update and addition.
+📍 Gurugram, India
+🗓️ Aug 2025 – Present
 
+* Implemented **Model Governance practices** to develop AI solutions for clients.
+* Developed **Generative AI and LLM-based applications** addressing enterprise use cases.
+
+---
+
+### **Academic Trainee — KPMG**
+
+📍 Gurugram, India
+🗓️ Feb 2025 – Aug 2025
+
+* Designed and proposed **AI-driven solutions** for the presales board of a financial services client.
+* Built a **Jenkins pipeline for automated data extraction workflows**.
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 Agentic RAG System for Querying PDFs and CSV Data
+
+**Tech:** Python, LangGraph, LangChain, ChromaDB, PostgreSQL, LangSmith
+
+* Built an **Agentic AI system with Retrieval Augmented Generation (RAG)** enabling natural language querying of PDFs and CSV files.
+* Designed a **multi-agent workflow using LangGraph** for intelligent query routing and response validation.
+* Implemented **dynamic SQL generation** for structured data and **vector similarity search** for unstructured documents.
+* Integrated **LangSmith for LLM tracing** and developed a **validator agent that produces confidence scores for responses**.
+
+---
+
+### 🎬 CineCompass — Movie Recommender with Review Sentiment Analysis
+
+**Tech:** Python, Flask, NLTK, BeautifulSoup
+
+* Built a **content-based movie recommendation system** using cosine similarity.
+* Developed an **NLP sentiment analysis model** to analyze movie reviews.
+* Integrated **TMDB API** for movie metadata and review extraction.
+
+---
 
 ## 🎓 Education
 
-**Bennett University, Greater Noida**  
-*Bachelor of Technology in Computer Science, Data Science*  
-*CGPA: 9.33* (Sept 2021 – June 2025)
+**Bennett University, Greater Noida**
+🎓 B.Tech in Computer Science — *Data Science & Generative AI*
+📊 **CGPA: 9.33**
+📅 2021 – 2025
 
+---
 
-## 📫 Contact Me
+## 🛠️ Technical Skills
 
-- Email: [jaindeepanshu2003@gmail.com](mailto:jaindeepanshu2003@gmail.com)
-- LinkedIn: [Deepanshu Jain](https://www.linkedin.com/in/deepanshu-jain-993931221)
+### Programming
 
+* Python
+* C / C++
+
+### Data Science & AI
+
+* NumPy
+* Pandas
+* Matplotlib
+* Machine Learning
+* Time Series Forecasting
+
+### Generative AI & LLM Tools
+
+* LangChain
+* LangGraph
+* ChromaDB
+* LangSmith
+
+### Databases & Infrastructure
+
+* PostgreSQL
+* Git / GitHub
+* Linux / Unix
+
+### Frameworks & Tools
+
+* Streamlit
+* Flask
+
+---
+
+## 📜 Certifications
+
+* IBM **Data Analyst Certification** (Coursera)
+* **Deep Learning and Reinforcement Learning** (Coursera)
+
+---
+
+## 🏆 Achievements
+
+* 🥉 **3rd Place — I-Cosmic Hackeye Inter-College Hackathon**
+  Led a **team of 5 developers** to build an innovative solution.
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: **[jaindeepanshu2003@gmail.com](mailto:jaindeepanshu2003@gmail.com)**
+💼 LinkedIn:
+https://www.linkedin.com/in/deepanshu-jain-993931221
+
+---
+
+⭐ *Always excited to collaborate on AI, Data Science, and Generative AI projects!*
