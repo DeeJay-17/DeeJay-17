@@ -1,3 +1,10 @@
+<a href="https://github.com/DeeJay-17/DeeJay-17">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DeeJay-17/DeeJay-17/main/dark_mode.svg">
+    <img alt="Deepanshu Jain's GitHub Profile README" src="https://raw.githubusercontent.com/DeeJay-17/DeeJay-17/main/light_mode.svg">
+  </picture>
+</a>
+
 # 👋 Hi, I'm Deepanshu Jain
 
 🚀 **Data Scientist | Generative AI Engineer | LLM Applications Developer**
@@ -25,6 +32,7 @@ I'm a passionate **Data Scientist and AI Engineer** focused on building intellig
 
 * Implemented **Model Governance practices** to develop AI solutions for clients.
 * Developed **Generative AI and LLM-based applications** addressing enterprise use cases.
+* Developed an **agnostic platform to dynamically create MCP servers**.
 
 ---
 
