@@ -5,134 +5,65 @@
   </picture>
 </a>
 
-# 👋 Hi, I'm Deepanshu Jain
-
-🚀 **Data Scientist | Generative AI Engineer | LLM Applications Developer**
-
-I'm a passionate **Data Scientist and AI Engineer** focused on building intelligent systems using **Machine Learning, Generative AI, and LLM-based architectures**. I enjoy solving complex problems, building data-driven products, and designing scalable AI solutions.
+<h3 align="center">Agentic AI &amp; GenAI Engineer @ KPMG India 🇮🇳</h3>
+<p align="center"><i>I build systems where the interesting part is what happens on the second try.</i></p>
 
 ---
 
-## 🧠 About Me
+## 🧪 What I'm building right now
 
-* 💡 Currently working on **Generative AI and LLM-based applications**
-* 🤖 Interested in **Agentic AI, RAG systems, and AI-powered products**
-* 📊 Strong background in **Data Science, Time Series Forecasting, and NLP**
-* 🛠️ Experienced with **Python ecosystems, ML frameworks, and AI orchestration tools**
-* 🌱 Continuously learning and exploring **advanced AI architectures**
+🕸️ &nbsp;**Multi-agent systems for enterprise use cases** — routing, validation, and the unglamorous plumbing that keeps them honest
 
----
+🔌 &nbsp;**An agnostic platform that spins up MCP servers on the fly** — so tools can be wired to agents without a rebuild
 
-## 💼 Experience
+🧭 &nbsp;**Model governance that isn't a checkbox** — tracing, confidence scoring, and knowing *why* a response happened
 
-### **Analyst — KPMG**
+<br>
 
-📍 Gurugram, India
-🗓️ Aug 2025 – Present
-
-* Implemented **Model Governance practices** to develop AI solutions for clients.
-* Developed **Generative AI and LLM-based applications** addressing enterprise use cases.
-* Developed an **agnostic platform to dynamically create MCP servers**.
+> Most of my time goes to the boring parts: retries, traces, evals, and the moment an agent
+> confidently does something nobody planned for. That moment is the whole job.
 
 ---
 
-### **Academic Trainee — KPMG**
+## 🧰 The stack I reach for
 
-📍 Gurugram, India
-🗓️ Feb 2025 – Aug 2025
+<p align="center">
+  <b>Agents &amp; LLMs</b><br>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
+  <img src="https://img.shields.io/badge/LangGraph-FF6F00?style=for-the-badge" alt="LangGraph">
+  <img src="https://img.shields.io/badge/LangSmith-2E2E2E?style=for-the-badge" alt="LangSmith">
+  <img src="https://img.shields.io/badge/MCP-6E56CF?style=for-the-badge" alt="Model Context Protocol">
+  <img src="https://img.shields.io/badge/RAG-0B7285?style=for-the-badge" alt="RAG">
+</p>
 
-* Designed and proposed **AI-driven solutions** for the presales board of a financial services client.
-* Built a **Jenkins pipeline for automated data extraction workflows**.
+<p align="center">
+  <b>Core</b><br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C/C++">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+</p>
 
----
-
-## 🚀 Featured Projects
-
-### 🧠 Agentic RAG System for Querying PDFs and CSV Data
-
-**Tech:** Python, LangGraph, LangChain, ChromaDB, PostgreSQL, LangSmith
-
-* Built an **Agentic AI system with Retrieval Augmented Generation (RAG)** enabling natural language querying of PDFs and CSV files.
-* Designed a **multi-agent workflow using LangGraph** for intelligent query routing and response validation.
-* Implemented **dynamic SQL generation** for structured data and **vector similarity search** for unstructured documents.
-* Integrated **LangSmith for LLM tracing** and developed a **validator agent that produces confidence scores for responses**.
-
----
-
-### 🎬 CineCompass — Movie Recommender with Review Sentiment Analysis
-
-**Tech:** Python, Flask, NLTK, BeautifulSoup
-
-* Built a **content-based movie recommendation system** using cosine similarity.
-* Developed an **NLP sentiment analysis model** to analyze movie reviews.
-* Integrated **TMDB API** for movie metadata and review extraction.
+<p align="center">
+  <b>Data &amp; Infra</b><br>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/ChromaDB-FFB300?style=for-the-badge&logoColor=black" alt="ChromaDB">
+  <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Vertex AI">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</p>
 
 ---
 
-## 🎓 Education
+<p align="center">
+  👇 &nbsp;<b>The pinned repos below are the good stuff.</b> &nbsp;👇
+</p>
 
-**Bennett University, Greater Noida**
-🎓 B.Tech in Computer Science — *Data Science & Generative AI*
-📊 **CGPA: 9.33**
-📅 2021 – 2025
-
----
-
-## 🛠️ Technical Skills
-
-### Programming
-
-* Python
-* C / C++
-
-### Data Science & AI
-
-* NumPy
-* Pandas
-* Matplotlib
-* Machine Learning
-* Time Series Forecasting
-
-### Generative AI & LLM Tools
-
-* LangChain
-* LangGraph
-* ChromaDB
-* LangSmith
-
-### Databases & Infrastructure
-
-* PostgreSQL
-* Git / GitHub
-* Linux / Unix
-
-### Frameworks & Tools
-
-* Streamlit
-* Flask
-
----
-
-## 📜 Certifications
-
-* IBM **Data Analyst Certification** (Coursera)
-* **Deep Learning and Reinforcement Learning** (Coursera)
-
----
-
-## 🏆 Achievements
-
-* 🥉 **3rd Place — I-Cosmic Hackeye Inter-College Hackathon**
-  Led a **team of 5 developers** to build an innovative solution.
-
----
-
-## 📫 Connect With Me
-
-📧 Email: **[jaindeepanshu2003@gmail.com](mailto:jaindeepanshu2003@gmail.com)**
-💼 LinkedIn:
-https://www.linkedin.com/in/deepanshu-jain-993931221
-
----
-
-⭐ *Always excited to collaborate on AI, Data Science, and Generative AI projects!*
+<p align="center">
+  <a href="https://www.linkedin.com/in/deepanshu-jain-993931221">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:jaindeepanshu2003@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
