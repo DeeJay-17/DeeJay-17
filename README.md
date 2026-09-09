@@ -5,7 +5,7 @@
   </picture>
 </a>
 
-<h3 align="center">Agentic AI &amp; GenAI Engineer @ KPMG India 🇮🇳</h3>
+<h3 align="center">Software Engineer with focus on Data Science &amp; Generative AI </h3>
 <p align="center"><i>I build systems where the interesting part is what happens on the second try.</i></p>
 
 ---
